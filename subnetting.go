@@ -156,7 +156,7 @@ func printSubnetInfo(subnets []Subnet, originalIP string, requestedSubnets int) 
 }
 
 func main() {
-	fmt.Println("Go Subnet Calculator - Advanced Tool ")
+	fmt.Println("Subnet Calculator - Advanced Tool ")
 
 	// Get IP address from user
 	var ipAddr string

@@ -57,7 +57,7 @@ The program will prompt you for two inputs:
 ### Example Session
 
 ```
-Go Subnet Calculator - Advanced Tool 
+Subnet Calculator - Advanced Tool 
 
 Enter IP address (with or without CIDR, e.g., 192.168.1.0/24 or 192.168.1.0): 192.168.1.0/24
 Enter number of subnets required: 4

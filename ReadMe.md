@@ -2,6 +2,10 @@
 
 A command-line tool written in Go that calculates subnet divisions for IPv4 networks. This tool helps network administrators and students understand subnetting by dividing a network into multiple subnets and displaying all relevant networking information.
 
+## Inspiration
+
+After finishing my studies at Mzuzu University, all i wanted was to be a software developer more than a network engineer. I used to struggle with alot of networking concepts and one of them was IP Address Subnetting. Ofcourse i managed to tackle the challenge, but after successfully learning a new Programming language, GOLANG, and understanding its features, i was like why not creating some program which can help me in subnetting, and thats when the program came into existance. I hope you will all enjoy it.
+
 ## Features
 
 - **Flexible Input**: Accepts IP addresses with or without CIDR notation
@@ -65,7 +69,7 @@ Enter number of subnets required: 4
 Calculating subnets...
 
 ================================================================================
-                    SUBNET CALCULATION RESULTS
+ SUBNET CALCULATION RESULTS
 ================================================================================
 
 Original Network: 192.168.1.0/24
